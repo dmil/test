@@ -1,2 +1,2 @@
 # test
-check to see if hashes are equal
+Check to see if hashes are equal.
